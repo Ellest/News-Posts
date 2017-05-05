@@ -1,1 +1,1 @@
-# Rails
+# News Post Site with Rails
